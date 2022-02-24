@@ -1,12 +1,6 @@
-<img align="left" src="https://github.com/FedericoGhimenti/FedericoGhimenti.github.io/blob/main/ProfilePicture.jpeg?raw=true">
-<p align = "right">
+![Image](ProfilePicture.jpeg){: style="float:left; padding-right:30px" }
 Hello! I am Federico Ghimenti. I am a Physics phD student at Université de Paris, working under the supervision of Frederic Van Wijland. I am interested in the structural glass transition, which I investigate using both analytical and numerical techniques.
-</p>
-<br clear="left"/>
-
-![Image](ProfilePicture.jpeg){: style="float:left; padding-right:10px" }
-Hello! I am Federico Ghimenti. I am a Physics phD student at Université de Paris, working under the supervision of Frederic Van Wijland. I am interested in the structural glass transition, which I investigate using both analytical and numerical techniques.
-# Contacts
+## Contacts
 Université de Paris
 
 10 rue Alice Domon et Léonie Duquet
