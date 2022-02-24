@@ -8,3 +8,5 @@ I am Federico Ghimenti, a phD student in Physics at Université de Paris working
 [Contacts](https://federicoghimenti.github.io/contacts)
 
 <br clear="left"/>
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>

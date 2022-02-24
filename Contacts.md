@@ -15,3 +15,5 @@ Bureau 768A
 Tel: +33(0)620659334
 
 Mail: federico.ghimenti AT etu.u-paris DOT fr
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>

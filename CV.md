@@ -23,3 +23,5 @@ permalink: /cv/
 Spring 2022: _Travaux Pratiques (Laboratory exercitations)_ of Logical Electronics at IUT Université de Paris
 
 Spring 2022: _Travaux Pratiques (Laboratory exercitations)_ of Optics at IUT Université de Paris
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>

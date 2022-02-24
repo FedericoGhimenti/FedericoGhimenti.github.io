@@ -18,3 +18,5 @@ Everyday intuition tells us that liquids flow, while solids do not. However, whe
 ![Image](PlasticFlow.png)
 
 Bibliography: F. Ghimenti, G. Biroli, M. Ozawa, G. Tarjus, _Plastic flow of two-dimensional solids_, in preparation
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
