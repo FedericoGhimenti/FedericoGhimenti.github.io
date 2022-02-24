@@ -10,10 +10,15 @@ Everyday intuition tells us that liquids flow, while solids do not. However, whe
 
 ### Contacts
 Université de Paris
+
 10 rue Alice Domon et Léonie Duquet
+
 75205 Paris cedex 13
+
 Bureau 768A
+
 Tel: +33(0)620659334
+
 Mail: federico.ghimenti@etu.u-paris.fr
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
