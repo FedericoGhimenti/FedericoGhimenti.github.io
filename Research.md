@@ -3,6 +3,12 @@ theme: jekyll-theme-cayman
 title: Research
 permalink: /research/
 ---
+<p align="center">
+  <a href="https://federicoghimenti.github.io">Home</a> |
+  <a href="https://federicoghimenti.github.io/cv">CV</a> |
+  <a href="https://federicoghimenti.github.io/research">Research</a> |
+  <a href="https://federicoghimenti.github.io/contacts">Contacts</a>
+</p>
 
 # Research
 ## Accelerate dynamics of glasses with irreversible samplers

@@ -3,6 +3,13 @@ theme: jekyll-theme-cayman
 title: Contacts
 permalink: /contacts/
 ---
+<p align="center">
+  <a href="https://federicoghimenti.github.io">Home</a> |
+  <a href="https://federicoghimenti.github.io/cv">CV</a> |
+  <a href="https://federicoghimenti.github.io/research">Research</a> |
+  <a href="https://federicoghimenti.github.io/contacts">Contacts</a>
+</p>
+
 # Contacts
 Université de Paris
 

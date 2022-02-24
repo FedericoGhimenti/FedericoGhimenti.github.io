@@ -4,6 +4,13 @@ title: CV
 permalink: /cv/
 ---
 
+<p align="center">
+  <a href="https://federicoghimenti.github.io">Home</a> |
+  <a href="https://federicoghimenti.github.io/cv">CV</a> |
+  <a href="https://federicoghimenti.github.io/research">Research</a> |
+  <a href="https://federicoghimenti.github.io/contacts">Contacts</a>
+</p>
+
 # Education
 
 2016-2019: Bsc in Physics at Sapienza University of Rome, final grade 110/110 _cum laude_
