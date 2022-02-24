@@ -1,4 +1,10 @@
 theme: jekyll-theme-cayman
 title: Welcome
-title: Research
+subtitle: Home
+url: https://federicoghimenti.github.io
+subtitle: Contacts
+url: https://federicoghimenti.github.io/contacts
+subtitle: CV
+url: https://federicoghimenti.github.io/cv
+subtitle: Research
 url: https://federicoghimenti.github.io/research
