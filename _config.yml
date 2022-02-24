@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: Welcome2
-description: My framework outperforms the <a href="https://federicoghimenti.github.io/contacts">current industry standard</a> as can be seen in publicly available <a href="link to blog post or whatever">benchmarks</a> "[Home](https://federicoghimenti.github.io) [CV](https://federicoghimenti.github.io/cv) [Research](https://federicoghimenti.github.io/research) [Contacts](https://federicoghimenti.github.io/contacts)"
+description: <a href="https://federicoghimenti.github.io">Home</a>
+<a href="https://federicoghimenti.github.io/cv">CV</a>
+<a href="https://federicoghimenti.github.io/research">Research</a>
+<a href="https://federicoghimenti.github.io/contacts">Contacts</a>
