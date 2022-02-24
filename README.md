@@ -1,10 +1,8 @@
 <img align="left" src="https://github.com/FedericoGhimenti/FedericoGhimenti.github.io/blob/main/ProfilePicture.jpeg?raw=true">
 
-some text aligned to the right of the image
+Hello! I am Federico Ghimenti. I am a Physics phD student at Université de Paris, working under the supervision of Frederic Van Wijland. I am interested in the structural glass transition, which I investigate using both analytical and numerical techniques.
 
 <br clear="left"/>
-
-![Image](ProfilePicture.jpeg) Hello! I am Federico Ghimenti. I am a Physics phD student at Université de Paris, working under the supervision of Frederic Van Wijland. I am interested in the structural glass transition, which I investigate using both analytical and numerical techniques.
 
 # Research Projects
 ## Accelerate dynamics dynamics of glasses with irreversible samplers
