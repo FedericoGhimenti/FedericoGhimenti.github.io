@@ -10,7 +10,6 @@ permalink: /contacts/
   <a href="https://federicoghimenti.github.io/contacts">Contacts</a>
 </p>
 
-# Contacts
 Université de Paris
 
 10 rue Alice Domon et Léonie Duquet

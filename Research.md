@@ -10,7 +10,6 @@ permalink: /research/
   <a href="https://federicoghimenti.github.io/contacts">Contacts</a>
 </p>
 
-# Research
 ## Accelerate dynamics of glasses with irreversible samplers
 Simulations of glasses and supercooled liquids are challenging due to the impressive slowdown of their dynamics at low temperatures. In recent years, many alternative dynamical evolution rules have been designed to accelerate the dynamics. My phD advisor Frederic Van Wijland and I have considered a specific irreversible dynamics that samples a targeted Boltzmann distribution, which is known to exhibit a qualitative acceleration in the relaxation toward the steady state. We quantified this speedup for a system with one energy barrier and for a mean field disordered model with many local minima, providing a physical interprepation of the accleration in terms of an increased mobility and of the phase space trajectories of the dynamics.   
 
