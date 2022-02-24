@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my Homepage
 
-You can use the [editor on GitHub](https://github.com/FedericoGhimenti/FedericoGhimenti.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello! I am Federico Ghimenti. I am a Physics phD student at Universite de Paris, working under the supervision of Frederic Van Wijland. I am interested in the structural glass transition, which I investigate using both analytical and numerical techniques. 
 
 ### Markdown
 
