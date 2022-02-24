@@ -1,4 +1,4 @@
-<img align="left" src="ProfilePicture.jpeg">
+<img align="left" src="https://github.com/FedericoGhimenti/FedericoGhimenti.github.io/blob/main/ProfilePicture.jpeg?raw=true">
 
 some text aligned to the right of the image
 
