@@ -21,9 +21,9 @@ permalink: /cv/
 
 # Scholarships
 
-2019-2021 ICFP scholarship for international students
+2019-2021: ICFP scholarship for international students
 
-2021-2024 PhD thesis funding from École Doctorale Paris Ile de France (EDPIF).
+2021-2024: PhD thesis funding from École Doctorale Paris Ile de France (EDPIF).
 
 # Teaching experience
 
