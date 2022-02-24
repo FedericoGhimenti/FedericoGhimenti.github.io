@@ -1,5 +1,6 @@
 ![Image](ProfilePicture.jpeg){: style="float:left; padding-right:30px" }
 Hello! I am Federico Ghimenti. I am a Physics phD student at Université de Paris, working under the supervision of Frederic Van Wijland. I am interested in the structural glass transition, which I investigate using both analytical and numerical techniques.
+<br clear="left"/>
 ## Contacts
 Université de Paris
 
@@ -13,7 +14,6 @@ Tel: +33(0)620659334
 
 Mail: federico.ghimenti AT etu.u-paris DOT fr
 
-<br clear="left"/>
 # Research Projects
 ## Accelerate dynamics dynamics of glasses with irreversible samplers
 Simulations of glasses and supercooled liquids are challenging due to the impressive slowdown of their dynamics at low temperatures. In recent years, many alternative dynamical evolution rules have been designed to accelerate the dynamics. My phD advisor Frederic Van Wijland and I have considered a specific irreversible dynamics that samples a targeted Boltzmann distribution, quantifying the gain in convergence time obtained by such a dynamics for a system with one energy barrier and for a mean field disordered model with many local minima.   
