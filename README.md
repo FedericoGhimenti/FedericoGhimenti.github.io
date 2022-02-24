@@ -1,6 +1,6 @@
 Hello! I am Federico Ghimenti. I am a Physics phD student at Université de Paris, working under the supervision of Frederic Van Wijland. I am interested in the structural glass transition, which I investigate using both analytical and numerical techniques.
 
-![Image](https://github.com/FedericoGhimenti/FedericoGhimenti.github.io/blob/main/ProfilePicture.jpeg?raw=true)
+![Image](ProfilePicture.jpeg)
 
 #Research Projects
 
