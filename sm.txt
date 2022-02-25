@@ -1,4 +1,4 @@
 https://federicoghimenti.github.io
-https://federicoghimenti.github.io/cv
-https://federicoghimenti.github.io/research
-https://federicoghimenti.github.io/contacts
+https://federicoghimenti.github.io/cv/
+https://federicoghimenti.github.io/research/
+https://federicoghimenti.github.io/contacts/
