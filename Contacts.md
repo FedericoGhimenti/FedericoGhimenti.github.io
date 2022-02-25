@@ -18,7 +18,7 @@ Université de Paris
 
 Bureau 768A
 
-Tel: +33(0)620659334
+Tel: +33 (0) 6 20 65 93 34
 
 Mail: federico.ghimenti AT etu.u-paris DOT fr
 

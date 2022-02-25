@@ -17,18 +17,18 @@ permalink: /cv/
 
 2019-2021: Master in Theoretical Physics at International Center of Fundamental Phjysics (ICFP), École Normale Supérieure, Paris, final mention _Tres Bien (Very good)_
 
-2021- : phD thesis in Physics at Université de Paris on _Glassiness and Chaotic Dynamics in high space dimension_ under the supervision of Frédéric Van Wijland
+2021- : PhD thesis in Physics at Université de Paris on _Glassiness and Chaotic Dynamics in high space dimensions_ under the supervision of Frédéric Van Wijland
 
 # Scholarships
 
 2019-2021: ICFP scholarship for international students
 
-2021-2024: PhD thesis funding from École Doctorale Paris Ile de France (EDPIF).
+2021-2024: PhD thesis funding from École Doctorale Paris Ile de France (EDPIF)
 
-# Teaching experience
+# Teaching
 
-Spring 2022: _Travaux Pratiques (Laboratory exercitations)_ of Logical Electronics at IUT Université de Paris
+Spring 2022: _Travaux Pratiques (Lab classes)_ of Logical Electronics at IUT Université de Paris
 
-Spring 2022: _Travaux Pratiques (Laboratory exercitations)_ of Optics at IUT Université de Paris
+Spring 2022: _Travaux Pratiques (Lab classes)_ of Optics at IUT Université de Paris
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
