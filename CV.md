@@ -15,7 +15,7 @@ permalink: /cv/
 
 2016-2019: Bsc in Physics at Sapienza University of Rome, final grade 110/110 _cum laude_
 
-2019-2021: Master in Theoretical Physics at International Center of Fundamental Phjysics (ICFP), École Normale Supérieure, Paris, final mention _Tres Bien (Very good)_
+2019-2021: Master in Theoretical Physics at International Center of Fundamental Physics (ICFP), École Normale Supérieure, Paris, final mention _Tres Bien (Very good)_
 
 2021- : PhD thesis in Physics at Université de Paris on _Glassiness and Chaotic Dynamics in high space dimensions_ under the supervision of Frédéric Van Wijland
 
