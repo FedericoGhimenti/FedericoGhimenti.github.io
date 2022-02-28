@@ -14,5 +14,3 @@ I am Federico Ghimenti, a phD student in Physics at Université de Paris working
   <title>federicoghimenti.github.io</title>
   <meta name="google-site-verification" content="googleaf73a127a1ada9c8.html" />
 </head>
-
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
