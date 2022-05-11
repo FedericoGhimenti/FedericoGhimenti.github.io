@@ -11,6 +11,8 @@ permalink: /cv/
   <a href="https://federicoghimenti.github.io/contacts">Contacts</a>
 </p>
 
+<a href="https://federicoghimenti.github.io/CV_Ghimenti.pdf">Long Version</a>
+
 # Education
 
 2016-2019: Bsc in Physics at Sapienza University of Rome, final grade 110/110 _cum laude_
