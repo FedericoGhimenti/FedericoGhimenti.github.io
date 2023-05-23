@@ -11,9 +11,9 @@ permalink: /research/
 </p>
 
 ## Accelerating the dynamics of glasses with irreversible samplers
-Simulations of glasses and supercooled liquids are challenging due to the impressive slowdown of their dynamics at low temperatures. In recent years, many alternative dynamical evolution rules have been designed to accelerate the convergence to steady state. My PhD advisor Frederic Van Wijland and I have considered a specific irreversible dynamics that samples a targeted Boltzmann distribution, which is known to exhibit a qualitative acceleration in the relaxation toward the steady state. We quantified this speedup for a system with one energy barrier and for a mean field disordered model with many local minima, providing a physical interpretation of the acceleration in terms of an increased mobility and of the phase space trajectories of the dynamics.   
+Simulations of glasses and supercooled liquids are challenging due to the impressive slowdown of their dynamics at low temperatures, which requires extremely long simulation times before being able to sample the Boltzmann distribution. Simulations can be accelerated by proposing unphysical moves that nevertheless sample the correct target distribution. Among these technique, one possibility consist in injecting in the system a supplementary current, driving it out of equilibrum. I am interested in how big is the speedup yield by these kind of dynamics in glassy systems. Look <a href="https://federicoghimenti.github.io/Transverse_Poster.pdf">here</a> for a poster on on a mean field spin glass and <a href="https://federicoghimenti.github.io/pspin_poster.pdf">here</a> for the case of structural glasses.
 
-**Bibliography**: [F. Ghimenti, F. Van Wijland, _Accelerating, to some extent, the p-spin dynamics_](https://arxiv.org/abs/2204.14055), Accepted by Physical Review E (2022)   
+**Bibliography**: [F. Ghimenti, F. Van Wijland, _Accelerating, to some extent, the p-spin dynamics_](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.054137#), Physical Review E, 2022   
 
 ![Image](Twisted.jpg)
 
