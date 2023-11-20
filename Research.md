@@ -10,6 +10,8 @@ permalink: /research/
   <a href="https://federicoghimenti.github.io/contacts">Contacts</a>
 </p>
 
+[Link to google scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=federico+ghimenti&oq=feder)
+
 ## Accelerating the dynamics of glasses with irreversible samplers
 Simulations of glasses and supercooled liquids are challenging due to the impressive slowdown of their dynamics at low temperatures, which requires extremely long simulation times before being able to sample the Boltzmann distribution. Simulations can be accelerated by proposing unphysical moves that nevertheless sample the correct target distribution. Among these technique, one possibility consist in injecting in the system a supplementary current, driving it out of equilibrum. I am interested in how big is the speedup yield by these kind of dynamics in glassy systems. Look <a href="https://federicoghimenti.github.io/Transverse_Poster.pdf">here</a> for a poster on on a mean field spin glass and <a href="https://federicoghimenti.github.io/pspin_poster.pdf">here</a> for the case of structural glasses.
 
