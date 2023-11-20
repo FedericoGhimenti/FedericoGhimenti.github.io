@@ -22,8 +22,8 @@ Simulations of glasses and supercooled liquids are challenging due to the impres
 ## Plastic flow of two-dimensional solids
 Everyday intuition tells us that liquids flow, while solids do not. However, when a crystalline solid is subjected to shear stress, nucleation of defects called dislocations occurs after some time. These defects travel through the solid relaxing the stress, allowing the sample to flow at a finite rate even in the presence of an infinitesimal shear stress. This fundamental phenomenon is not yet well understood. In collaboration with Giulio Biroli, Misaki Ozawa and Gilles Tarjus, I have investigated the microscopic properties of plastic flow through simulations of a two dimensional crystal. In addition to the plastic behavior, we have witnessed and characterized other exotic phase transitions as the shear rate increased.
 
-**Bibliography**: [F. Ghimenti, G. Biroli, M. Ozawa, G. Tarjus, _Plastic flow of two-dimensional solids_](https://arxiv.org/abs/2310.05094) submitted to Phys. Rev. B
+**Bibliography**: [F. Ghimenti, G. Biroli, M. Ozawa, G. Tarjus, _Shear-Induced Phase Behavior and Topological Defects in Two-Dimensional Crystals_](https://arxiv.org/abs/2310.05094) submitted to Phys. Rev. B
 
-![Image](Phase_Diagram.pdf)
+![Image](Phase_Diagram.png)
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
