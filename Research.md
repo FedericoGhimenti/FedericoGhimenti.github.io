@@ -13,15 +13,15 @@ permalink: /research/
 [Link to google scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=federico+ghimenti&oq=feder)
 ## [Transverse forces and glassy liquids in infinite dimensions](https://arxiv.org/abs/2402.10856)
 
-![Image](speedup_d_infty.pdf)
+![Image](speedup_d_infty.png)
 
 ## [A speedup of 40 in hard disks glasses](https://arxiv.org/abs/2402.06585)
 
-![Image](cartoon_cswap_ecmc.pdf)
+![Image](cartoon_cswap_ecmc.png)
 
 ## [Sampling efficiency of transverse forces in dense liquids](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.257101)
 
-![Image](cartoon_transverse.pdf)
+![Image](cartoon_transverse.png)
 
 
 ## Accelerating the dynamics of glasses with irreversible samplers
