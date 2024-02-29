@@ -16,9 +16,11 @@ permalink: /research/
 ![Image](speedup_d_infty.pdf)
 
 ## [A speedup of 40 in hard disks glasses](https://arxiv.org/abs/2402.06585)
+
 ![Image](cartoon_cswap_ecmc.pdf)
 
 ## [Sampling efficiency of transverse forces in dense liquids](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.257101)
+
 ![Image](cartoon_transverse.pdf)
 
 
