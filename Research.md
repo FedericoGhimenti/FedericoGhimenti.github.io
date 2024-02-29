@@ -11,6 +11,16 @@ permalink: /research/
 </p>
 
 [Link to google scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=federico+ghimenti&oq=feder)
+## [Transverse forces and glassy liquids in infinite dimensions](https://arxiv.org/abs/2402.10856)
+
+![Image](speedup_d_infty.pdf)
+
+## [A speedup of 40 in hard disks glasses](https://arxiv.org/abs/2402.06585)
+![Image](cartoon_cswap_ecmc.pdf)
+
+## [Sampling efficiency of transverse forces in dense liquids](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.257101)
+![Image](cartoon_transverse.pdf)
+
 
 ## Accelerating the dynamics of glasses with irreversible samplers
 Simulations of glasses and supercooled liquids are challenging due to the impressive slowdown of their dynamics at low temperatures, which requires extremely long simulation times before being able to sample the Boltzmann distribution. Simulations can be accelerated by proposing unphysical moves that nevertheless sample the correct target distribution. Among these technique, one possibility consist in injecting in the system a supplementary current, driving it out of equilibrum. I am interested in how big is the speedup yield by these kind of dynamics in glassy systems. Look <a href="https://federicoghimenti.github.io/Transverse_Poster.pdf">here</a> for a poster on on a mean field spin glass and <a href="https://federicoghimenti.github.io/pspin_poster.pdf">here</a> for the case of structural glasses.
