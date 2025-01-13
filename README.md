@@ -6,8 +6,9 @@
 </p>
 
 ![Image](ProfilePicture.jpeg){: style="float:left; padding-right:30px" }
-I am Federico Ghimenti, a phD student in Physics at Université de Paris working under the supervision of Frédéric Van Wijland. My domain of research is statistical physics. In particular, I am interested in the structural glass transition, a topic I investigate using both analytical and numerical techniques.
+I am a postdoctoral fellow int the department of Applied Physics at Stanford. I am interested in the theory of machine learning and neural networks.
 
+I obtained my PhD in Physics at Université Paris Cité, working under the supervision of Frédéric Van Wijland. In my thesis, I addressed how and to what extent certain types of nonequilibrium dynamics can be used to enhance sampling in glasses and amorphous materials. 
 <br clear="left"/>
 
 <head>
