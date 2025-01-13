@@ -10,16 +10,10 @@ permalink: /contacts/
   <a href="https://federicoghimenti.github.io/contacts">Contacts</a>
 </p>
 
-Université de Paris
+Department of Applied Physics, Stanford University, 348 Via Pueblo, Stanford, CA 94305, USA
 
-10 rue Alice Domon et Léonie Duquet
+Tel: +(650) 4446583
 
-75205 Paris cedex 13
-
-Bureau 768A
-
-Tel: +33 (0) 6 20 65 93 34
-
-Mail: federico.ghimenti AT etu.u-paris DOT fr
+Mail: ghimenti AT stanford DOT edu
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
