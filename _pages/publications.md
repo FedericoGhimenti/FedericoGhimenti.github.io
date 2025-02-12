@@ -18,7 +18,7 @@ My thesis can be found [here](/files/Ghimenti_manuscript.pdf)
 
 7. L. Berthier, **F. Ghimenti**, F. van Wijland, ["Monte Carlo simulations of glass-forming liquids beyond Metropolis"](https://pubs.aip.org/aip/jcp/article-abstract/161/11/114105/3312882/Monte-Carlo-simulations-of-glass-forming-liquids?redirectedFrom=fulltext), *J. Chem. Phys.* **161**, 114105 (2024)
 
-6. **F. Ghimenti**, L. Berthier, G. Szamel, F. van Wijland, ["Irreversible Boltzmann samplers in dense liquids: Weak-coupling approximation and mode-coupling theory"](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.034604), *Phys. Rev. E* **110**, 034604 (2024)
+6. **F. Ghimenti**, L. Berthier, G. Szamel, F. van Wijland, ["Irreversible Boltzmann samplers in dense liquids: Weak-coupling approximation and mode-coupling theory"](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.034604), *Phys. Rev. E* **110**, 034604 (2024) **Highlighted as Editors' Suggestion**
 
 5. **F. Ghimenti**, L. Berthier, F. van Wijland, ["Irreversible Monte Carlo Algorithms for Hard Disk Glasses: From Event-Chain to Collective Swaps"](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.028202), *Phys. Rev. Lett.* **133**, 028202 (2024). **Highlighted as Editors' Suggestion** and **Selected for PRL's Collection of the Year 2024**.
 
