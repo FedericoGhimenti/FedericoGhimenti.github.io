@@ -8,6 +8,8 @@ author_profile: true
 
 My thesis can be found [here](/files/Ghimenti_manuscript.pdf)
 
+1. **F. Ghimenti**, F. van Wijland, ["Accelerating, to some extent, the 𝑝-spin dynamics"](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.054137), *Phys. Rev. E* **105**, 054137 (2022)
+
 10. Y. Nishikawa, **F. Ghimenti**, L. Berthier, F. van Wijland, ["Irreversible algorithms for soft sphere glasses"](https://arxiv.org/abs/2501.09932), arXiv:2501.09932 (2025) 
 
 9. C. Hargus, **F. Ghimenti**, J. Tailleur, F. van Wijland, ["Odd dynamics of passive objects in a chiral active bath"](https://arxiv.org/abs/2412.20689), arXiv:2412.20689 (2024)
