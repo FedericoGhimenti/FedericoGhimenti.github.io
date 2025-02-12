@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Francesco Mori"
+title: "Federico Ghimenti"
 author_profile: true
 redirect_from: 
   - /about/
