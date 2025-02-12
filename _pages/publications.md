@@ -6,7 +6,7 @@ author_profile: true
 
 ## Publications
 
-View my Google Scholar profile [here](https://scholar.google.com/citations?user=PYclf1QAAAAJ&hl=en)
+My thesis can be found [here](/files/Ghimenti_manuscript.pdf)
 
 10. Y. Nishikawa, **F. Ghimenti**, L. Berthier, F. van Wijland, ["Irreversible algorithms for soft sphere glasses"](https://arxiv.org/abs/2501.09932), arXiv:2501.09932 (2025) 
 
