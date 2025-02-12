@@ -6,9 +6,7 @@ author_profile: true
 
 ## Publications
 
-My thesis can be found [here](/files/Ghimenti_manuscript.pdf)
-
-1. **F. Ghimenti**, F. van Wijland, ["Accelerating, to some extent, the 𝑝-spin dynamics"](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.054137), *Phys. Rev. E* **105**, 054137 (2022)
+My thesis can be found [here](/files/manuscript_Ghimenti.pdf)
 
 10. Y. Nishikawa, **F. Ghimenti**, L. Berthier, F. van Wijland, ["Irreversible algorithms for soft sphere glasses"](https://arxiv.org/abs/2501.09932), arXiv:2501.09932 (2025) 
 
