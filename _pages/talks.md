@@ -6,6 +6,8 @@ author_profile: true
 
 ## Invited talks and seminars
 
+Mar 2025 - Research Seminar, "Sampling in glassy systems through nonreversible dynamics", [SIFS Young Seminars](https://www.fisicastatistica.org/young-seminars-sifs) 
+
 Jan 2025 - Research Seminar, Theoretical Chemistry Seminar, UC Berkeley, California.
 
 Sep 2023 - Invited Talk, [Probablistic Sampling for Physics](https://indico.ijclab.in2p3.fr/event/9042/contributions/31163/), Institut Pascal, Orsay, France. [Video recording](https://www.youtube.com/watch?v=JvF9o2prTcE)
