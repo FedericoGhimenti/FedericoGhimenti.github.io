@@ -10,7 +10,7 @@ My thesis can be found [here](/files/manuscript_Ghimenti.pdf)
 
 11. C. Hargus, **F. Ghimenti**, J. Tailleur, F. van Wijland, [Passive objects in a chiral active bath: from micro to macro](https://arxiv.org/abs/2504.00811), Arxiv:2504.00811 (2025)
 
-10. Y. Nishikawa, **F. Ghimenti**, L. Berthier, F. van Wijland, ["Irreversible algorithms for soft sphere glasses"](https://arxiv.org/abs/2501.09932), arXiv:2501.09932 (2025) 
+10. Y. Nishikawa, **F. Ghimenti**, L. Berthier, F. van Wijland, ["Irreversible algorithms for soft sphere glasses"](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.045416), *Phys. Rev. E* **111**, 045416 (2025) 
 
 9. C. Hargus, **F. Ghimenti**, J. Tailleur, F. van Wijland, ["Odd dynamics of passive objects in a chiral active bath"](https://arxiv.org/abs/2412.20689), arXiv:2412.20689 (2024)
 
