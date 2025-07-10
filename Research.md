@@ -10,7 +10,7 @@ permalink: /research/
   <a href="https://federicoghimenti.github.io/contacts">Contacts</a>
 </p>
 
-[Link to google scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=federico+ghimenti&oq=feder)
+[Link to google scholar](https://scholar.google.fr/citations?user=6PPdLS4AAAAJ&hl=fr&oi=ao)
 ## [Transverse forces and glassy liquids in infinite dimensions](https://arxiv.org/abs/2402.10856)
 
 ![Image](speedup_d_infty.png)
