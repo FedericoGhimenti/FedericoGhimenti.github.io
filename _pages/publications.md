@@ -8,7 +8,7 @@ author_profile: true
 
 My thesis can be found [here](/files/manuscript_Ghimenti.pdf)
 
-14. M. del Gaudio, **F. Ghimenti**, S. Ganguli, ["Short-term plasticity recalls forgotten memories through a trampoline mechanism"](https://arxiv.org/abs/2511.22848), Arxiv:2511.22848 (2025)
+14. M. Del Gaudio, **F. Ghimenti**, S. Ganguli, ["Short-term plasticity recalls forgotten memories through a trampoline mechanism"](https://arxiv.org/abs/2511.22848), Arxiv:2511.22848 (2025)
 
 13. **F. Ghimenti**, A. Sriram, A. Yamamura, H. Mabuchi, S. Ganguli, ["The geometry and dynamics of annealed optimization in the coherent Ising machine with hidden and planted solutions"](https://arxiv.org/abs/2510.21109), Arxiv:2510.21109 (2025)
 
