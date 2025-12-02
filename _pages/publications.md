@@ -8,9 +8,9 @@ author_profile: true
 
 My thesis can be found [here](/files/manuscript_Ghimenti.pdf)
 
-14. M. del Gaudio, *F. Ghimenti*, S- Ganguli, ["Short-term plasticity recalls forgotten memories through a trampoline mechanism"](https://arxiv.org/abs/2511.22848), Arxiv:2511.22848 (2025)
+14. M. del Gaudio, **F. Ghimenti**, S. Ganguli, ["Short-term plasticity recalls forgotten memories through a trampoline mechanism"](https://arxiv.org/abs/2511.22848), Arxiv:2511.22848 (2025)
 
-13. *F. Ghimenti*, A. Sriram, A. Yamamura, H. Mabuchi, S. Ganguli, ["The geometry and dynamics of annealed optimization in the coherent Ising machine with hidden and planted solutions"](https://arxiv.org/abs/2510.21109), Arxiv:2510.21109 (2025)
+13. **F. Ghimenti**, A. Sriram, A. Yamamura, H. Mabuchi, S. Ganguli, ["The geometry and dynamics of annealed optimization in the coherent Ising machine with hidden and planted solutions"](https://arxiv.org/abs/2510.21109), Arxiv:2510.21109 (2025)
 
 12. H. Pan, J. V. Roggeveen, E. Berg, J. Carrasquilla, D. Chowdhury, S. Ganguli, **F. Ghimenti**, J. Hasik, H. Hunt, H. Jiang, M. Kamb, Y. Kao, E. Khatami, M. J. Lawler, D. Luo, T. Neupert, X. Qi, M. P. Brenner, E. Kim, ["CMT-Benchmark: A Benchmark for Condensed Matter Theory Built by Expert Researchers"](https://arxiv.org/abs/2510.05228), Arxiv:2510.05228 (2025)
 
