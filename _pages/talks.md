@@ -6,6 +6,8 @@ author_profile: true
 
 ## Talks, seminars and posters
 
+Jan 2026 - Contributed Poster, "Geometry and optimization dynamics in the coherent Ising machine with hidden and planted solutions", [Berkeley Statistical Mechanics Meeting](https://berkeleystatmech.org/index.html), Berkeley, California
+
 Jul 2025 - Contributed Talk, "What do clever algorithms for glasses do?", [StatPhys29](https://statphys29.org/), Florence, Italy
 
 Jul 2025 - Contributed Poster, "The edge of annealing in the coherent Ising machine", [Youth in High Dimensions](https://indico.ictp.it/event/10849), ICTP, Trieste, Italy
