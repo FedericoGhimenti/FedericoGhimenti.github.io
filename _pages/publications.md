@@ -8,7 +8,7 @@ author_profile: true
 
 My thesis can be found [here](/files/manuscript_Ghimenti.pdf)
 
-14. 8. **F. Ghimenti**, L. Berthier, J. Kurchan, F. van Wijland, ["Clever algorithms for glasses work by time reparametrization"] (https://doi.org/10.1073/pnas.2520818123), *Proc. Natl. Acad. Sci. U.S.A.* **123** (4) (2026)
+14. **F. Ghimenti**, L. Berthier, J. Kurchan, F. van Wijland, ["Clever algorithms for glasses work by time reparametrization"](https://doi.org/10.1073/pnas.2520818123), *Proc. Natl. Acad. Sci. U.S.A.* **123** (4) (2026)
 
 13. M. Del Gaudio, **F. Ghimenti**, S. Ganguli, ["Short-term plasticity recalls forgotten memories through a trampoline mechanism"](https://arxiv.org/abs/2511.22848), Arxiv:2511.22848 (2025)
 
