@@ -8,19 +8,19 @@ author_profile: true
 
 My thesis can be found [here](/files/manuscript_Ghimenti.pdf)
 
-14. M. Del Gaudio, **F. Ghimenti**, S. Ganguli, ["Short-term plasticity recalls forgotten memories through a trampoline mechanism"](https://arxiv.org/abs/2511.22848), Arxiv:2511.22848 (2025)
+14. 8. **F. Ghimenti**, L. Berthier, J. Kurchan, F. van Wijland, ["Clever algorithms for glasses work by time reparametrization"] (https://doi.org/10.1073/pnas.2520818123), *Proc. Natl. Acad. Sci. U.S.A.* **123** (4) (2026)
 
-13. **F. Ghimenti**, A. Sriram, A. Yamamura, H. Mabuchi, S. Ganguli, ["The geometry and dynamics of annealed optimization in the coherent Ising machine with hidden and planted solutions"](https://arxiv.org/abs/2510.21109), Arxiv:2510.21109 (2025)
+13. M. Del Gaudio, **F. Ghimenti**, S. Ganguli, ["Short-term plasticity recalls forgotten memories through a trampoline mechanism"](https://arxiv.org/abs/2511.22848), Arxiv:2511.22848 (2025)
 
-12. H. Pan, J. V. Roggeveen, E. Berg, J. Carrasquilla, D. Chowdhury, S. Ganguli, **F. Ghimenti**, J. Hasik, H. Hunt, H. Jiang, M. Kamb, Y. Kao, E. Khatami, M. J. Lawler, D. Luo, T. Neupert, X. Qi, M. P. Brenner, E. Kim, ["CMT-Benchmark: A Benchmark for Condensed Matter Theory Built by Expert Researchers"](https://arxiv.org/abs/2510.05228), Arxiv:2510.05228 (2025)
+12. **F. Ghimenti**, A. Sriram, A. Yamamura, H. Mabuchi, S. Ganguli, ["The geometry and dynamics of annealed optimization in the coherent Ising machine with hidden and planted solutions"](https://arxiv.org/abs/2510.21109), Arxiv:2510.21109 (2025)
 
-11. C. Hargus, **F. Ghimenti**, J. Tailleur, F. van Wijland, [Passive objects in a chiral active bath: from microscopic to macroscopic](https://journals.aps.org/pre/abstract/10.1103/qb5j-y254), *Phys. Rev. E* **112** 044127 (2025) 
+11. H. Pan, J. V. Roggeveen, E. Berg, J. Carrasquilla, D. Chowdhury, S. Ganguli, **F. Ghimenti**, J. Hasik, H. Hunt, H. Jiang, M. Kamb, Y. Kao, E. Khatami, M. J. Lawler, D. Luo, T. Neupert, X. Qi, M. P. Brenner, E. Kim, ["CMT-Benchmark: A Benchmark for Condensed Matter Theory Built by Expert Researchers"](https://arxiv.org/abs/2510.05228), **Accepted at ICLR 2025**
 
-10. Y. Nishikawa, **F. Ghimenti**, L. Berthier, F. van Wijland, ["Irreversible algorithms for soft sphere glasses"](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.045416), *Phys. Rev. E* **111**, 045416 (2025) 
+10. C. Hargus, **F. Ghimenti**, J. Tailleur, F. van Wijland, [Passive objects in a chiral active bath: from microscopic to macroscopic](https://journals.aps.org/pre/abstract/10.1103/qb5j-y254), *Phys. Rev. E* **112** 044127 (2025) 
 
-9. C. Hargus, **F. Ghimenti**, J. Tailleur, F. van Wijland, ["Odd dynamics of passive objects in a chiral active bath"](https://journals.aps.org/prl/abstract/10.1103/pdpf-sd9q), *Phys. Rev. Lett.* **135** 167102 (2025)
+9. Y. Nishikawa, **F. Ghimenti**, L. Berthier, F. van Wijland, ["Irreversible algorithms for soft sphere glasses"](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.045416), *Phys. Rev. E* **111**, 045416 (2025) 
 
-8. **F. Ghimenti**, L. Berthier, J. Kurchan, F. van Wijland, ["What do clever algorithms for glasses do? Time reparametrization at work"](https://arxiv.org/abs/2409.17121), arXiv2409.17121 (2024)
+8. C. Hargus, **F. Ghimenti**, J. Tailleur, F. van Wijland, ["Odd dynamics of passive objects in a chiral active bath"](https://journals.aps.org/prl/abstract/10.1103/pdpf-sd9q), *Phys. Rev. Lett.* **135** 167102 (2025)
 
 7. L. Berthier, **F. Ghimenti**, F. van Wijland, ["Monte Carlo simulations of glass-forming liquids beyond Metropolis"](https://pubs.aip.org/aip/jcp/article-abstract/161/11/114105/3312882/Monte-Carlo-simulations-of-glass-forming-liquids?redirectedFrom=fulltext), *J. Chem. Phys.* **161**, 114105 (2024)
 
