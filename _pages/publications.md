@@ -8,6 +8,8 @@ author_profile: true
 
 My thesis can be found [here](/files/manuscript_Ghimenti.pdf)
 
+15. T. Leleu, S. Gunathilaka, **FG**, S. Ganguli, ["“Contrastive Concept-Tree Search for LLM-Assisted Algorithm Discovery"](https://arxiv.org/abs/2602.03132), Arxiv:2602.03132 (2026)
+
 14. **FG**, L. Berthier, J. Kurchan, F. van Wijland, ["Clever algorithms for glasses work by time reparametrization"](https://doi.org/10.1073/pnas.2520818123), **Proc. Natl. Acad. Sci. U.S.A.** **123** (4) (2026)
 
 13. M. Del Gaudio, **FG**, S. Ganguli, ["Short-term plasticity recalls forgotten memories through a trampoline mechanism"](https://arxiv.org/abs/2511.22848), Arxiv:2511.22848 (2025)
