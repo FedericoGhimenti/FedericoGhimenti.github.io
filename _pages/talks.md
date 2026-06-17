@@ -6,6 +6,12 @@ author_profile: true
 
 ## Talks, seminars and posters
 
+June 2026 - Contributed talk, "[Real space ecological chaos without niches stabilizes unbounded diversity](https://online.kitp.ucsb.edu/online/complexsys-c26/ghimenti/)", [ KITP Conference: Non-equilibrium Dynamics, from Active Matter to Evolutionary Dynamics](https://online.kitp.ucsb.edu/online/complexsys-c26/), Santa Barbara, California
+
+May 2026 - Chalkboard lecture, "[Endogenous fluctuations and dispersal stabilize microbial diversity](https://online.kitp.ucsb.edu/online/complexsys26/ghimenti/)", [KITP - New trends in nonequilibrium dynamics](https://www.kitp.ucsb.edu/activities/complexsys26), Santa Barbara, California
+
+Mar 2026 - Contributed Talk, "The geometry and dynamics of annealed optimization in the coherent Ising machine with hidden and planted solutions", [APS Global Physics Summit](https://summit.aps.org/smt/2026/events/MAR-L63/6), Denver, Colorado
+
 Jan 2026 - Contributed Poster, "Geometry and optimization dynamics in the coherent Ising machine with hidden and planted solutions", [Berkeley Statistical Mechanics Meeting](https://berkeleystatmech.org/index.html), Berkeley, California
 
 Jul 2025 - Contributed Talk, "What do clever algorithms for glasses do?", [StatPhys29](https://statphys29.org/), Florence, Italy
